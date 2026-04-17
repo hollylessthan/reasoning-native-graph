@@ -47,6 +47,9 @@ decisions, and how retrieval differs from vector search.
 - **Artifact** — a concrete Iceberg component or spec section
 - **Label** — GitHub labels
 
+![Decision Trace Graph](https://github.com/user-attachments/assets/79ab4264-1616-47a1-9c8d-a6013586721b)
+*Actor (green) → DecisionEvent (teal) → LogicNode (blue) → Artifact (orange)*
+
 ## Quickstart
 
 ### 1. Prerequisites
